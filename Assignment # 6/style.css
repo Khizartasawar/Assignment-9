@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    margin: 0%;
+    padding: 0px;
+}
+#part2{
+    font-family: New York Medium;
+    font-weight: 400;
+    font-size : 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+p{
+    text-align: left;
+}
+li{
+    text-align: left;
+}
+#box1{
+    text-align: left;
+    display: inline-block;
+}
+#box2{
+    display: inline-block;
+}
+#box3{
+    display: inline-block;
+}
+#box4{
+    display: inline-block;
+}
+#box5{
+    display: inline-block;
+}
+#box6{
+    display: inline-block;
+}
+#footer{
+    color:white;
+    background-color: black;
+    height: 250px;
+}
+ROSE{
+    margin-top: 90px;
+}

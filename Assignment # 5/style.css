@@ -1,0 +1,60 @@
+/* Save this styles in a file named styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e6e6e6;
+    padding: 30px;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 36px;
+    line-height: 42px;
+    color: #2b2b2b;
+}
+
+.author {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.author-name {
+    font-size: 24px;
+    color: #3d3d3d;
+}
+
+.read-time {
+    font-size: 18px;
+    color: #777;
+}
+
+.date {
+    font-size: 18px;
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-size: 22px;
+    color: #3d3d3d;
+    margin-bottom: 30px;
+}
+
+.content {
+    line-height: 30px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    color: #d3d3d3;
+    background-color: #d3d3d3;
+    margin: 20px 0;
+}
